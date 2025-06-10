@@ -24,7 +24,7 @@
 ## **Screenshot**
 
 *The main interface of CropPictureBorders.*
-![image]([https://raw.githubusercontent.com/goldarch/ExceptionManager/master/img-folder/01.jpg])  
+![image](https://github.com/goldarch/CropPictureBorders/blob/master/readmeImage/mainForm.png)    
 
 ## **Usage**
 
